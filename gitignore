@@ -1,6 +1,0 @@
-*.us
-__uscache__
-project_venv
-db.sqlite3
-/static
-.DS_Store
